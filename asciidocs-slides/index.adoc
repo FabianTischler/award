@@ -10,7 +10,7 @@ ifndef::backend[:backend: html5]
 
 * Tischler Fabian (5AHIF)
 
-* Trinkl Philip (5AHIF)
+* Trinkl Philip (5AHI)
 
 [transition="zoom", %notitle]
 == Motivation

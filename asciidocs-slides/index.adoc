@@ -32,6 +32,13 @@ image::pexels-photo-590022.png[background, size=cover]
 * dadurch können die Daten von der Schule selbst verwaltet werden
 
 [transition="zoom", %notitle]
+
+== Systemarchitektur
+
+image::pexels-photo-590022.png[background, size=cover]
+image::sysarchitecture.png[]
+
+[transition="zoom", %notitle]
 == UseCases
 
 image::pexels-photo-590022.png[background, size=cover]

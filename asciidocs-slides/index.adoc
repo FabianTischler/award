@@ -1,5 +1,5 @@
 = LeoSurvey
-ifndef::imagesdir[:imagesdir: /images]
+ifndef::imagesdir[:imagesdir: ./images]
 ifndef::backend[:backend: html5]
 :icons: font
 :revealjs_parallaxBackgroundSize: cover
